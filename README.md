@@ -31,3 +31,21 @@ This project is a Flask web application that predicts loan eligibility based on 
    ```bash
    git clone https://github.com/yourusername/loan-eligibility-predictor.git
    cd loan-eligibility-predictor
+
+
+
+![Screenshot (88)](https://github.com/user-attachments/assets/e732e599-86a3-4139-94a4-a2a5d611633b)
+
+![Screenshot (89)](https://github.com/user-attachments/assets/0dabc5f8-60af-4c10-b792-05e52807d73f)
+
+![Screenshot (91)](https://github.com/user-attachments/assets/a8c44032-5f51-4da9-8cc4-89d07b5fded2)
+
+![Screenshot (90)](https://github.com/user-attachments/assets/92e74c6c-f652-4e6e-ba65-409d4b03bd1a)
+
+
+
+
+
+
+
+
